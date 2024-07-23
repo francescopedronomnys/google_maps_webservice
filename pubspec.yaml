@@ -4,7 +4,7 @@ version: 0.0.20-nullsafety.6
 homepage: https://github.com/lejard-h/google_maps_webservice
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: '>=3.0.5 <4.0.0'
 
 dependencies:
   http: ^1.2.1
