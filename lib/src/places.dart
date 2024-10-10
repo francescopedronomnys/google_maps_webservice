@@ -637,7 +637,7 @@ class PlaceDetails {
   /// JSON formatted_phone_number
   final String? formattedPhoneNumber;
 
-  final String id;
+  final String? id;
 
   final String? reference;
 
@@ -655,7 +655,7 @@ class PlaceDetails {
   final String placeId;
 
   /// JSON international_phone_number
-  final String internationalPhoneNumber;
+  final String? internationalPhoneNumber;
 
   /// JSON price_level
   final PriceLevel? priceLevel;
